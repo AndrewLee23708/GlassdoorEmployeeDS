@@ -1,0 +1,11 @@
+numpy==<latest_version>
+pandas==<latest_version>
+scikit-learn==<latest_version>
+lightgbm==<latest_version>
+shap==<latest_version>
+matplotlib==<latest_version>
+seaborn==<latest_version>
+scipy==<latest_version>
+spacy==<latest_version>
+wordcloud==<latest_version>
+nltk==<latest_version>
