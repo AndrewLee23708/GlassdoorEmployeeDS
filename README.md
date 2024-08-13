@@ -22,7 +22,7 @@ Due to github's limitation on size of dataset (220MB), you will need to download
 https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews/data
 
 
-#### Installation Instructions: Provide a step-by-step guide on how to run the project, including setting up the environment, installing dependencies, and running the models.
+#### Installation Instructions:
 Clone the repository
 Install dependencies: pip install -r requirements.txt
 
