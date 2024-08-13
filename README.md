@@ -1,4 +1,4 @@
-﻿`# Predicting Employee Satisfaction on Glassdoor: Machine Learning Analysis`
+# Predicting Employee Satisfaction on Glassdoor: Machine Learning Analysis
 
 #### Description
 This project aims to predict employee satisfaction based on features such as job level, work-life balance, and company culture through data analysis and different machine learning models, including Ridge Regression, Logistic Regression, Random Forest, and LightGBM.
